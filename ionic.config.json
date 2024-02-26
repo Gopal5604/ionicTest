@@ -1,0 +1,7 @@
+{
+  "name": "RSpotBot",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
